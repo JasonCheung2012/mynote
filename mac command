@@ -4,3 +4,7 @@
 2. 查询ip地址等信息
       ifconfig
       
+3. mac下使用vi的时候复制粘贴的快捷键居然可以成功，之前使用PC上的linux环境下就失败了
+
+4. 验证ipv6的时候使用了ping6 ipv6.tsinghua.edu.cn
+       ping6 大约就是 ping 的ipv6 版本
