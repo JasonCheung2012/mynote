@@ -1,0 +1,6 @@
+1. 修改terminal中的主机名
+      sudo scutil --set HostName newname
+
+2. 查询ip地址等信息
+      ifconfig
+      
