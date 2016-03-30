@@ -13,3 +13,11 @@
       whereis
       例： whereis ssh
 
+6. /etc/   一般我也是习惯后面加/，但其实关系不是太大，有/更表明其为一个目录
+
+7. ~代表的是个人的目录地址，如何使一般用户，/home/name/,  root 用户，/root/
+
+8. /etc 不是什么英文缩写，而是英语中的etc (et cetera)，一般放配置信息，，，
+
+9. tmux 在用ssh时最重要的就是 ctr+b (mac上的control+b), d, D, tmux attach
+   
