@@ -8,3 +8,8 @@
 
 4. 验证ipv6的时候使用了ping6 ipv6.tsinghua.edu.cn
        ping6 大约就是 ping 的ipv6 版本
+
+5. 定位命令之
+      whereis
+      例： whereis ssh
+
